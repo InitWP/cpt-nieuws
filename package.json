@@ -11,7 +11,7 @@
 			"id": "nieuws",
 			"slug": "nieuws",
 			"args": {
-				"menu_position": "3",
+				"menu_position": "3"
 			}
 		}
 	}
